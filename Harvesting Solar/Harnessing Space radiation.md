@@ -8,11 +8,11 @@ Imagine a world where energy is abundant, clean, and accessible to all. By harne
 
 #### The Science
 **Efficient Energy Harvesting**
-- **Collector Arrays at Lagrange Points**: The primary energy harvesting will be performed by collector arrays deployed at one of the Lagrange Points (L1, L4, or L5). These arrays will continuously beam the collected energy to the closest SPS.
-- **Photovoltaic (PV) Cells**: Convert sunlight directly into electricity using semiconductor materials. PV cells are a well-established technology with continually improving efficiency and cost-effectiveness.
-- **Rectennas**: Convert microwave radiation into direct current (DC) electricity with high efficiency.
-- **TPV Cells**: Capture infrared radiation and convert it into electricity using advanced semiconductor materials.
-- **Other Radiation Harvesting Methods**: Explore and develop technologies to harvest other forms of electromagnetic radiation, ensuring a comprehensive approach to energy capture.
+- **Collector Arrays at Lagrange Points**: The primary energy harvesting will be performed by collector arrays deployed at one of the Lagrange Points (L1, L4, or L5). These arrays will continuously beam the collected energy to the closest SPS. There are several different energy harvesting methods:
+  - **Photovoltaic (PV) Cells**: Convert sunlight directly into electricity using semiconductor materials. PV cells are a well-established technology with continually improving efficiency and cost-effectiveness.
+  - **Rectennas**: Convert microwave radiation into direct current (DC) electricity with high efficiency.
+  - **TPV Cells**: Capture infrared radiation and convert it into electricity using advanced semiconductor materials.
+  - **Other Radiation Harvesting Methods**: Explore and develop technologies to harvest other forms of electromagnetic radiation, ensuring a comprehensive approach to energy capture.
 
 **Optimized Transmission**
 - **Solar Power Satellites (SPS)**: Positioned in geosynchronous orbit to relay energy collected from the Lagrange point arrays using mirrors or other low-loss transmission methods, ensuring minimal energy loss. SPS are equipped with high-gain and wide-beam antennas to transmit power to Earth.
