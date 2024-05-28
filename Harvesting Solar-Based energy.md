@@ -6,6 +6,8 @@ In an era where the demand for clean, renewable energy is paramount, we present 
 #### The Vision
 Imagine a world where energy is abundant, clean, and accessible to all. By harnessing energy from space, we can create a global energy system that transcends the limitations of traditional power sources. Our collection array will continuously collect and convert solar energy, with SPS distributing it to Earth to power homes, industries, and innovative technologies.
 
+![Solar power satellites in space, generated image](http://url/to/img.png)
+
 #### The Science
 **Efficient Energy Harvesting**
 - **Collector Arrays at Lagrange Points**: The primary energy harvesting will be performed by collector arrays deployed at one of the Lagrange Points (L1, L4, or L5). These arrays will continuously beam the collected energy to the closest SPS. There are several different energy harvesting methods:
