@@ -6,7 +6,7 @@ In an era where the demand for clean, renewable energy is paramount, we present 
 #### The Vision
 Imagine a world where energy is abundant, clean, and accessible to all. By harnessing energy from space, we can create a global energy system that transcends the limitations of traditional power sources. Our collection array will continuously collect and convert solar energy, with SPS distributing it to Earth to power homes, industries, and innovative technologies.
 
-![Solar power satellites in space, generated image](http://url/to/img.png)
+![Solar power satellites in space, generated image]([https://github.com/mosheeshel/SBSP/blob/7f33e4f504767b62725d128a8f5fa99181b2a072/20240528_075548.jpg])
 
 #### The Science
 **Efficient Energy Harvesting**
